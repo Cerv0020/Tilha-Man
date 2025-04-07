@@ -1,0 +1,28 @@
+{
+  "name": "tilha-man",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerv0020/Tilha-Man.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "league-of-legends"
+  ],
+  "author": "Os Tilhados",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cerv0020/Tilha-Man/issues"
+  },
+  "homepage": "https://github.com/Cerv0020/Tilha-Man#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0"
+  }
+}
